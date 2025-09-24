@@ -1,1 +1,23 @@
+Arquivos:
+produto.h: estrutura e protótipos das funções
+produto.c: implementação das operações
+main.c: menu interativo
+README.md: instruções e complexidade Big-O
 
+Operações:
+inserir_inicio
+inserir_ordenado_por_codigo (atualiza se código existir)
+remover_por_codigo
+ajustar_quantidade
+buscar
+listar
+limpar
+
+Comandos:
+ADD <cod> "<nome>" <qtd> <preco>
+UPD <cod> <delta_qtd>
+DEL <cod>
+FIND <cod>
+LIST
+REL (relatório: total itens, valor total, maior valor imobilizado)
+EXIT
