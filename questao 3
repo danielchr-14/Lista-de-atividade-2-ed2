@@ -1,0 +1,12 @@
+Arquivos:
+pilha.h: estruturas Frame e Pilha
+pilha.c: implementação da pilha
+main.c: simulador de chamadas/retornos
+README.md: instruções e complexidade
+
+Comandos:
+CALL <func> <sp>
+RET
+PEEK
+TRACE (mostra pilha inteira)
+EXIT
