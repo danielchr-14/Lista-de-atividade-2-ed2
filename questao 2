@@ -1,0 +1,11 @@
+Arquivos:
+fila.h: estruturas Cliente e Fila, protótipos
+fila.c: implementação da fila
+main.c: simulação de venda de ingressos
+README.md: instruções e complexidade
+
+Comandos:
+ADD <id> <qtd>
+START (processa fila)
+REL (relatório de vendas, atendidos, maiores compras, não atendidos)
+EXIT
